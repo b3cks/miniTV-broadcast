@@ -1,0 +1,14 @@
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\bin\Release\ImageConverter.exe
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\bin\Release\ImageConverter.pdb
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\bin\Release\AForge.Video.DirectShow.dll
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\bin\Release\AForge.Video.dll
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\bin\Release\AForge.dll
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\bin\Release\AForge.Video.xml
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\bin\Release\AForge.Video.DirectShow.xml
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\bin\Release\AForge.xml
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\obj\Release\ImageConverter.Properties.Resources.resources
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\obj\Release\ImageConverter.csproj.GenerateResource.Cache
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\obj\Release\ImageConverter.exe
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\obj\Release\ImageConverter.pdb
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\obj\Release\ImageConverter.csprojResolveAssemblyReference.cache
+D:\UQ\Sem2\ENGG\C# Project\ImageConverter\ImageConverter\ImageConverter\obj\Release\ImageConverter.MainPanel.resources
